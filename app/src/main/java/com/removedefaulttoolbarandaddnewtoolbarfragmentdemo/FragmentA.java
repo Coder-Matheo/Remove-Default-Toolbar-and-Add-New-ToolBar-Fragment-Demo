@@ -20,7 +20,7 @@ public class FragmentA extends Fragment {
         return view;
     }
 
-    //Hide and Show Toolbar in this Fragment, for add in xml file
+    //Hide and Show Toolbar in this Fragment, for add in xml file ga
     @Override
     public void onResume() {
         super.onResume();
